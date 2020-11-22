@@ -32,7 +32,13 @@ Na beira do mar
 A mamãe gritou: Quá, quá, quá, quá
 E os 3 patinhos voltaram de lá.
 
+**Como executar**:
 
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run
+```
 
 
 
